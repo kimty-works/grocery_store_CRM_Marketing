@@ -26,6 +26,5 @@ We designed store-specific tailored promotion strategies based on customer purch
 - Localized promotion strategies based on customer visit patterns
 
 ### Key Insights
-- The top customer segments (VVIP) contribute a disproportionately high share of total sales
 - Lack of differentiated services led to underutilization of high-value customers
 - CRM-based segmentation enables more effective and targeted marketing strategies
