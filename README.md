@@ -1,4 +1,4 @@
-# grocery_store_CRM_Marketing
+# CRM Marketing for Eco-friendly Food Store Sales Growth
 POSCO AI BigData Acadmey 25th Business BigData Project : Ecobig CRM Marketing Strategy
 
 ## Project Introduction
@@ -17,10 +17,10 @@ Yujin Lee : EDA, Customer Churn Analysis
 ##### Customer Segmentation using RFM Model
 - Quantified customer value based on Recency, Frequency, and Monetary metrics
 - Redesigned customer tiers into four segments (VVIP, VIP, Gold, Green)
-- 
+  
 #### Tailored Promotion Strategy
 - Customized membership benefits based on customer tiers
-- 
+  
 #### Store-level Optimization Strategy
 - Product placement optimization to induce cross-selling
 - Localized promotion strategies based on customer visit patterns
