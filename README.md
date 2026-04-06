@@ -6,12 +6,12 @@ This project aims to increase sales of local eco-friendly food stores by leverag
 We designed store-specific tailored promotion strategies based on customer purchase behavior to differentiate from large retail chains.
 
 ## Team Introduction
-Taeyoung Kim : CRM analysis (RFM modeling), EDA, marketing strategy design
-Minseung Kim : EDA, Customer Churn Analysis
-Rak Hyun Kim : EDA, Market Basket Analysis
-Juhyung Park : Customer Churn Analysis, Market Basket Analysis
-Seoyoung Yun : EDA, CRM analysis (RFM modeling)
-Yujin Lee : EDA, Customer Churn Analysis
+- Taeyoung Kim : CRM analysis (RFM modeling), EDA, marketing strategy design
+- Minseung Kim : EDA, Customer Churn Analysis
+- Rak Hyun Kim : EDA, Market Basket Analysis
+- Juhyung Park : Customer Churn Analysis, Market Basket Analysis
+- Seoyoung Yun : EDA, CRM analysis (RFM modeling)
+- Yujin Lee : EDA, Customer Churn Analysis
 
 ## Main Features
 ##### Customer Segmentation using RFM Model
